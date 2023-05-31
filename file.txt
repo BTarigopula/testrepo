@@ -9,3 +9,4 @@ git statu
 git add <filename>  - to track,,, to give this command to update changes and ready for push
 
 git commit -m
+--- give master branch to finial 
