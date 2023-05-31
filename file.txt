@@ -12,3 +12,7 @@ git commit -m
 --- give master branch to finial 
 
 git commit -m "Finish Change"
+
+git remote add orign "Repo URL" --- we are makeing URL name to origin... now onwareds we can use orign insted of url
+
+git push -u origin master
