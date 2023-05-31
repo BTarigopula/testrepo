@@ -1,1 +1,11 @@
 Hello This is Bhanu
+
+
+Command
+git  init -- create empty repo
+
+git statu
+
+git add <filename>  - to track,,, to give this command to update changes and ready for push
+
+git commit -m
