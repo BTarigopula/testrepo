@@ -10,3 +10,5 @@ git add <filename>  - to track,,, to give this command to update changes and rea
 
 git commit -m
 --- give master branch to finial 
+
+git commit -m "Finish Change"
